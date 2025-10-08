@@ -37,6 +37,8 @@
               python3
               python3Packages.pip
               iputils
+              dig
+              ldns
               mtr
               nettools
               htop
