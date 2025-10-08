@@ -34,6 +34,7 @@
             name = "debug-container";
             tag = "latest";
             contents = with pkgs; [
+              bash
               python3
               python3Packages.pip
               iputils
